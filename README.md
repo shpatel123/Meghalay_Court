@@ -1,1 +1,1 @@
-In this project meghalay court order work with web scarping and exteact data fro the website and save in database. I use scarpy framework for extract the data, fetch case number, order date, case pdf etc.
+In this project  meghalay court order work with web scarping and exteact data from the website and save in database. I use scarpy framework for extract the data, fetch case number, order date, case pdf etc.
